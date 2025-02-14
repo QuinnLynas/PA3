@@ -149,11 +149,16 @@ Working together as a team, use the plots you both created to address the
 following questions on Canvas:
 
 1.  Which species of penguins is represented the **least** in the `penguins` data set?
+Chinstrap
 
 2.  Which species of penguins are found on Biscoe Island?
+Gentoo and Adelie
 
 3.  Which species of penguins are found on Dream Island?
+Adelie and chinstrap
 
 4.  Which species of penguins are found on Torgersen Island?
+Adelie
 
 5.  Color deficiencies can make differentiating groups difficult---what aesthetic could you add to your plot to double encode species?
+
