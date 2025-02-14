@@ -88,7 +88,7 @@ data(penguins)
 
 **What variables are included in these data? What units are the variables measured in? What does each row represent?**
 
-> Insert Answer Here
+> Insert Answer Here..
 
 
 
